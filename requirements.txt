@@ -9,3 +9,5 @@ prophet
 pandas-datareader
 PyPortfolioOpt
 tensorflow
+statsmodels
+
