@@ -1,4 +1,5 @@
-# StockVisionAI
+# Stock Forecasting
+
 
 A Streamlit-based **Stock Prediction & Investment Analysis** app.
 
