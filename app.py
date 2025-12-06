@@ -9,8 +9,8 @@ from src.data_loader import fetch_stock_data
 from src.predictor import train_prophet_model, forecast_future
 
 # ---------------- Page setup ----------------
-st.set_page_config(page_title="StockVisionAI", layout="wide")
-st.title("📈 StockVisionAI — Predict • Analyze • Invest")
+st.set_page_config(page_title="Stock-Forecast", layout="wide")
+st.title("📈 Stock-Forecast — Predict • Analyze • Invest")
 
 # ---------------- Helpers ----------------
 def months_to_days(months: int) -> int:
